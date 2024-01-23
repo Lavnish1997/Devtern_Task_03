@@ -1,4 +1,4 @@
-#  <img src="https://github.com/Lavnish1997/Devtern_Task_03/blob/main/img/Screenshot%20(264).png" width="300">
+#  <img src="https://github.com/Lavnish1997/Devtern_Task_03/blob/main/img/Screenshot%20(264).png" width="750">
 
 ## Simple Todo List App Refactored: Documentation
 
