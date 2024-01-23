@@ -1,4 +1,4 @@
-#  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
+#  <img src="https://github.com/Lavnish1997/Devtern_Task_03/blob/main/img/Screenshot%20(264).png" width="300">
 
 ## Simple Todo List App Refactored: Documentation
 
@@ -116,16 +116,6 @@ The project follows a modular and organized structure to enhance readability, ma
    - **Violation:** Original code lacked a clear structure for theme handling.
    - **Refactoring:** Introduced a `ThemeSwitcher` class, applying the Singleton pattern for centralized theme management and persistence.
 
-#### Previous UML:
-
-
-<img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/3bf12b6a-c237-4d66-b94e-da8ed5af5a85" width="500">
-
-#### New UML:
-
-<img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/32a196a6-5a3d-4f0d-9582-9c4d1999d0d3" width="550">
-
-
 ### Class Responsibilities:
 
 1. **TodoItemFormatter:**
@@ -150,7 +140,7 @@ The project follows a modular and organized structure to enhance readability, ma
 
 ## 7. Deployment
 
-The TO-DO-LIST App is deployed and accessible online. You can use the following link to access the application: [TO-DO-LIST](https://Lavnish1997.github.io/Devtern_Task_03/)
+The TO-DO-LIST App is deployed and accessible online. You can use the following link to access the application: [TO-DO-LIST]([https://github.com/Lavnish1997/Devtern_Task_03](https://lavnish1997.github.io/Devtern_Task_03/))
 
 ## 8. Usage
 
@@ -181,6 +171,6 @@ The TO-DO-LIST App is deployed and accessible online. You can use the following 
    - Select a theme from the available options.
 
 
-## 9. Contact Information:**
+## 9. Contact Information:
   - Mobile Number:+91-9557147899
   - Email:lavnishsingh1997@gmail.com
